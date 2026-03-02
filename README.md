@@ -11,6 +11,5 @@ During modeling, the following ambiguities were identified:
 - No cancellation workflow
 - No exception handling for supplier delays
 - No damaged equipment process
-- System integration details unclear
 
 These gaps may require clarification for a complete operational model.
