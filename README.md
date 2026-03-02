@@ -7,7 +7,7 @@ This repository contains a BPMN 2.0 model of the "as-is" workflow for IT equipme
 During modeling, the following ambiguities were identified:
 
 - No approval process defined
-- No SLA or delivery time specified
+- No delivery time specified
 - No cancellation workflow
 - No exception handling for supplier delays
 - No damaged equipment process
