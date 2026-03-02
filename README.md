@@ -1,0 +1,1 @@
+# Junior-Fullstack-Analyst-Tasks
